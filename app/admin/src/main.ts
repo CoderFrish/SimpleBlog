@@ -3,7 +3,7 @@ import app from '@/app.vue'
 import elementui from 'element-plus'
 import router from "@/router/router.ts";
 
-import '@/style/global.css'
+import '@/style.css'
 import 'element-plus/dist/index.css'
 
 export const title = "Frish2021的博客"
