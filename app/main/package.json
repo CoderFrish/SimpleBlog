@@ -1,0 +1,14 @@
+{
+  "name": "main",
+  "private": true,
+  "version": "latest",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue-meta": "^3.0.0-alpha.10"
+  }
+}
